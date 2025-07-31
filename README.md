@@ -86,7 +86,7 @@ Eve,5,4,Italy,1005
 - printIDsInRange(t1, t2): in-order traversal to collect IDs
 - findBestRankBeforeDate(date): traverses nodes to find minimum rank before a date
 ---
-## 📜 License
+##  License
 This project is free to use for **educational and personal** purposes. You are allowed to:
 
 - Copy, modify, and distribute the code
